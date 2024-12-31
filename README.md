@@ -9,7 +9,7 @@ TimePiece is a task manager application designed to help you organize and manage
    - Compresses tasks that are not part of your regular schedule.
    
 2. **Daily Schedule View**
-   - Allows you to set a daily schedule.
+   - Allows you to set a daily schedule such as workout routines, work schedule, breaks, etc.
    - Excludes unique tasks that you add separately.
    
 3. **Unscheduled Tasks View**
